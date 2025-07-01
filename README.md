@@ -10,11 +10,6 @@
   - [Laptop-Rebuild]([(https://github.com/Daleypaul/Laptop-Rebuild/blob/d26e8347ff8218c63ead936222ba5487a4a7721a/README.md)] </b>
   
 
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-
 
 <h2> Education & Certifications </h2>
 -  <b> Coursera & Google (Online) Google IT Support | Issued March 2024  
