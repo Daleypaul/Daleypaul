@@ -1,4 +1,4 @@
-<h1>Hi, I'm Paul! <br/><a href="https://github.com/joshmadakor1">Scrum Student </a>, <a href="https://www.linkedin.com/in/tyrese-daley/">IT/Help Desk</a>, 
+<h1>Hi, I'm Paul! <br/><a href="https://github.com/joshmadakor1">Scrum Student </a>, <a href="https://www.linkedin.com/in/tyrese-daley/">IT/Help Desk</a>
 
 <h2>👨‍💻 IT Analyst Development Projects:</h2>
 
