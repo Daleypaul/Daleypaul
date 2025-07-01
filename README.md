@@ -5,7 +5,10 @@
 - <b> SCCM Lab: Targeted Software Deployment Using Device Collections</b>
   - Praciting Software Deployment (https://github.com/Daleypaul/SCCM-Lab.git)
 - <b>Cisco Packet Tracer Network Setup Lab</b>
-  - [End-to-End Network Design ]([https://github.com/Daleypaul/Cisco-Packet-Tracer-Network-Setup-Lab.git] 
+  - [End-to-End Network Design ]([https://github.com/Daleypaul/Cisco-Packet-Tracer-Network-Setup-Lab.git]
+- Laptop Rebuild and Windows Deployment Lab </b>
+  - [Laptop-Rebuild]( README.md] Lab</b>
+  
 
 - <b>C# (.NET Desktop Applications)</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
