@@ -7,7 +7,7 @@
 - <b>Cisco Packet Tracer Network Setup Lab</b>
   - [End-to-End Network Design ]([https://github.com/Daleypaul/Cisco-Packet-Tracer-Network-Setup-Lab.git]
 - Laptop Rebuild and Windows Deployment Lab </b>
-  - [Laptop-Rebuild]( README.md] Lab</b>
+  - [Laptop-Rebuild](https://github.com/Daleypaul/Laptop-Rebuild/blob/main/README.md) Lab</b>
   
 
 - <b>C# (.NET Desktop Applications)</b>
