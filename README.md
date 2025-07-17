@@ -5,7 +5,7 @@
 - <b> SCCM Lab: Targeted Software Deployment Using Device Collections</b>
   - Praciting Software Deployment (https://github.com/Daleypaul/SCCM-Lab.git)
 - <b>Cisco Packet Tracer Network Setup Lab</b>
-  - [End-to-End Network Design ](https://github.com/Daleypaul/Cisco-Packet-Tracer-Network-Setup-Lab.git]
+  - [End-to-End Network Design ](https://github.com/Daleypaul/Cisco-Packet-Tracer-Network-Setup-Lab.git)]
 - Laptop Rebuild and Windows Deployment Lab </b>
   - [Laptop-Rebuild]([(https://github.com/Daleypaul/Laptop-Rebuild/blob/d26e8347ff8218c63ead936222ba5487a4a7721a/README.md)] </b>
   
