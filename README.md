@@ -14,12 +14,18 @@
 
 <h2> Education & Certifications </h2>
 - <b> Purdue University | Bachelor of Science Information Technology Degree | Nov. 2025
-- <b> Coursera & Google (Online) Google IT Support | Issued March 2024  
+  
+- <b> Coursera & Google (Online) Google IT Support | Issued March 2024
+  
 - <b> Aviatrix: Cloud Networking | 2025
+
 - <b> Cisco Networking | 2025
+
 - <b> Microsoft 365: Modern Desktop Administrator Associate | 2025
-- <b> NPOWER (NY, USA): Technology Fundamentals Program | Certificate in Information Technology | Issued October 2024 <b> 
-- <b> 🔭 I’m currently working on 
+  
+- <b> NPOWER (NY, USA): Technology Fundamentals Program | Certificate in Information Technology | Issued October 2024 <b>
+  
+- <b> 🔭 I’m currently working on earning my CompTIA A+ certificate
 
 
 
