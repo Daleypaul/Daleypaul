@@ -8,8 +8,8 @@
   - [End-to-End Network Design ](https://github.com/Daleypaul/Cisco-Packet-Tracer-Network-Setup-Lab.git)]
 - Laptop Rebuild and Windows Deployment Lab </b>
   - [Laptop-Rebuild]([(https://github.com/Daleypaul/Laptop-Rebuild/blob/d26e8347ff8218c63ead936222ba5487a4a7721a/README.md)] </b>
-- Laptop Rebuild and Windows Deployment Lab </b>
-  - [Laptop-Rebuild]([(https://github.com/Daleypaul/Laptop-Rebuild/blob/d26e8347ff8218c63ead936222ba5487a4a7721a/README.md)] </b>
+- Creating a Nano Server in a virtual machine Lab </b>
+  - [Creating-a-Nano-Server-in-a-virtual-machine]([(https://github.com/Daleypaul/Creating-a-Nano-Server-in-a-virtual-machine))] </b>
 
 
 <h2> Education & Certifications </h2>
