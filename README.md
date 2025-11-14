@@ -8,26 +8,27 @@
   - [End-to-End Network Design ](https://github.com/Daleypaul/Cisco-Packet-Tracer-Network-Setup-Lab.git)]
 - Laptop Rebuild and Windows Deployment Lab </b>
   - [Laptop-Rebuild]([(https://github.com/Daleypaul/Laptop-Rebuild/blob/d26e8347ff8218c63ead936222ba5487a4a7721a/README.md)] </b>
-  
+- Laptop Rebuild and Windows Deployment Lab </b>
+  - [Laptop-Rebuild]([(https://github.com/Daleypaul/Laptop-Rebuild/blob/d26e8347ff8218c63ead936222ba5487a4a7721a/README.md)] </b>
 
 
 <h2> Education & Certifications </h2>
--  <b> Coursera & Google (Online) Google IT Support | Issued March 2024  
-   <b>
-     
--<b> NPOWER (NY, USA): Technology Fundamentals Program | Certificate in Information Technology | Issued October 2024 <b> 
+- <b> Purdue University | Bachelor of Science Information Technology Degree | Nov. 2025
+- <b> Coursera & Google (Online) Google IT Support | Issued March 2024  
+- <b> Aviatrix: Cloud Networking | 2025
+- <b> Cisco Networking | 2025
+- <b> Microsoft 365: Modern Desktop Administrator Associate | 2025
+- <b> NPOWER (NY, USA): Technology Fundamentals Program | Certificate in Information Technology | Issued October 2024 <b> 
+- <b> 🔭 I’m currently working on 
 
 
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-
 [<img align="left" alt="PaulDaley | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
 
-[youtube]: https://www.youtube.com/c/joshmadakor
 [linkedin]: https://linkedin.com/in/tyrese-daley
 
 <!--
