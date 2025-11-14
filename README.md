@@ -35,7 +35,7 @@
 
 
 
-[linkedin]: https://linkedin.com/in/tyrese-daley
+- <b> [linkedin]: https://linkedin.com/in/tyrese-daley
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
